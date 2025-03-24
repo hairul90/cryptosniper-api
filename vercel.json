@@ -1,6 +1,3 @@
 {
-  "version": 2,
-  "routes": [
-    { "src": "/api/sniper", "dest": "/api/sniper.js" }
-  ]
+  "version": 2
 }
